@@ -2,10 +2,10 @@
 
 ## Інформація щодо викладача
 
-Викладач: Годовиченко Микола Анатолійович
-email: nick.godov@gmail.com
-skype: nickgodov
-telegram: @MykolaHdv
+- Викладач: Годовиченко Микола Анатолійович
+- email: nick.godov@gmail.com
+- skype: nickgodov
+- telegram: @MykolaHdv
 
 ### Стислий опис курсу
 
